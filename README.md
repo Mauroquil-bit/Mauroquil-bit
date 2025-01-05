@@ -6,6 +6,7 @@ Soy **Mauricio Mercado**, un apasionado de la automatización de redes y el desa
 - 🐳 **Docker**
 - 📊 **Grafana**
 - 🔍 **OpenSearch**
+- 🌐 **Cisco Networking**
 
 ¡Exploro constantemente nuevas herramientas y comparto mi aprendizaje con la comunidad técnica!
 
@@ -15,6 +16,7 @@ Soy **Mauricio Mercado**, un apasionado de la automatización de redes y el desa
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
 ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?logo=opensearch&logoColor=white&style=flat-square)
+![Cisco](https://img.shields.io/badge/-Cisco%20Networking-1BA0D7?logo=cisco&logoColor=white&style=flat-square)
 
 ---
 
