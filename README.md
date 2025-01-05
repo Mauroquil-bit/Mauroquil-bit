@@ -1,16 +1,21 @@
-## Hi there 👋
+# ¡Hola! 👋
 
-<!--
-**Mauroquil-bit/Mauroquil-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Mauricio Mercado**, un apasionado de la automatización de redes y el desarrollo con las siguientes tecnologías:
 
-Here are some ideas to get you started:
+- 🐍 **Python**
+- 🐳 **Docker**
+- 📊 **Grafana**
+- 🔍 **OpenSearch**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Exploro constantemente nuevas herramientas y comparto mi aprendizaje con la comunidad técnica!
+
+---
+## Tecnologías destacadas
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat-square)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana&logoColor=white&style=flat-square)
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-005EB8?logo=opensearch&logoColor=white&style=flat-square)
+
+---
+
+🔗 **Sígueme en LinkedIn:** [Mauricio Mercado](https://www.linkedin.com/in/mauricio-mercado)
