@@ -18,4 +18,4 @@ Soy **Mauricio Mercado**, un apasionado de la automatización de redes y el desa
 
 ---
 
-🔗 **Sígueme en LinkedIn:** [Mauricio Mercado](https://www.linkedin.com/in/mauricio-mercado)
+🔗 **Sígueme en LinkedIn:** [Mauricio Mercado]([https://www.linkedin.com/in/mauricio-mercado-18946baa/]
